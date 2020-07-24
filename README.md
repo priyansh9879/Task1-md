@@ -1,4 +1,4 @@
-# Deploying Web-servers using Complete DevOps CI/CD Operations with Git, Jenkins and Docker to Achieve High Availability and Scalability
+# Deploying Web-servers using Complete DevOps CI/CD Operations with Git, Jenkins and Docker to Achieve High Availability and High Scalability
 
 Hello Hard-craft Enthusiasts, This Article is all about the complete process of Deploying Web-servers inside **Docker Container** using **DevOps** CI/CD Operations managed with Version Control System powered by **Git** and **GitHub** to achieve a high Availability and Scalability along with Automation using **Jenkins**.
 
